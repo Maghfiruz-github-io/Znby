@@ -11318,7 +11318,7 @@ p.lead {
 .subheading {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: uppercase;
-  margin-top: 0.05px;
+  margin-top: 0.5px;
   font-weight: 100;
   font-size: 1.50rem;
 }
