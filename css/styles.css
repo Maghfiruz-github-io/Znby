@@ -4025,8 +4025,8 @@ textarea.form-control-lg {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 0.10rem;
+  padding-bottom: 0.10rem;
 }
 .navbar > .container,
 .navbar > .container-fluid,
@@ -4044,10 +4044,10 @@ textarea.form-control-lg {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 1,50rem;
+  font-size: 1.50rem;
   text-decoration: none;
   white-space: nowrap;
-  font-family: monospace;
+  font-family: italic;
   text-shadow: 4px 3px 3px grey;
 }
 .navbar-nav {
