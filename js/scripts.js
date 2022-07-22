@@ -1,3 +1,6 @@
+
+
+
 window.addEventListener('DOMContentLoaded', event => {
 
     const sideNav = document.body.querySelector('#sideNav');
